@@ -1,6 +1,6 @@
-# 📄 Documentation – Zero Trust Network Lab
+#  Documentation – Zero Trust Network Lab
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates the implementation of a **Zero Trust Network Architecture** using pfSense firewall in a virtual lab environment.
 
@@ -11,7 +11,7 @@ The objective is to compare:
 
 ---
 
-## 🧱 Lab Environment Setup
+##  Lab Environment Setup
 
 ### Virtual Machines Used
 
@@ -25,7 +25,7 @@ The objective is to compare:
 
 ---
 
-## 🌐 Network Configuration
+##  Network Configuration
 
 ### Traditional Network
 
@@ -41,7 +41,7 @@ The objective is to compare:
 
 ---
 
-## 🔐 Firewall Configuration (pfSense)
+##  Firewall Configuration (pfSense)
 
 * LAN → LAN2 traffic blocked
 * Only controlled communication allowed
@@ -54,7 +54,7 @@ This ensures that:
 
 ---
 
-## 🧪 Testing Methodology
+##  Testing Methodology
 
 The following tests were performed:
 
@@ -72,7 +72,7 @@ The following tests were performed:
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 ### Traditional Network
 
@@ -88,7 +88,7 @@ The following tests were performed:
 
 ---
 
-## 🔍 Security Analysis
+##  Security Analysis
 
 The Zero Trust model successfully:
 
@@ -100,7 +100,7 @@ This demonstrates the importance of segmentation and strict access control.
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 * Small-scale virtual environment
 * Limited attack simulations
@@ -108,7 +108,7 @@ This demonstrates the importance of segmentation and strict access control.
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 The implementation confirms that Zero Trust significantly improves internal network security compared to traditional flat networks.
 
